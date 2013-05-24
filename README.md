@@ -1,6 +1,9 @@
 vumi-go-skeleton
 ================
 
+MIKE THIS IS ALL RUBBISH!
+WE'RE GOING TO DELETE IT HAHAHAHA
+
 *Author:* Mike Jones [mike@westerncapelabs.com]
 
 Minimum viable vumi-go JavaScript skeleton
